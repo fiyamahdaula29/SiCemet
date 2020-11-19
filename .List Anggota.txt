@@ -1,0 +1,19 @@
+INF 3B P2 KELOMPOK 5
+
+Tim Riset Methodology : 
+Benazheer Salsabila (J3C118070)
+Septian Afif (J3C118069)
+
+Full Stack Developer
+M. Luthfi Hardiansyah (J3C118137)
+
+Front End Developer : 
+Fiya Mahdaula (J3C118143)
+Kintan Umari (J3C118148)
+
+Back End Developer :
+Munadi Lil Iman (J3C118068)
+Fenny Aminatunisak  (J3C118152)
+
+
+
